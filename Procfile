@@ -1,1 +1,1 @@
-web: gunicorn SampleProject.wsgi --log-file -
+web: gunicorn mandat.wsgi --log-file -
