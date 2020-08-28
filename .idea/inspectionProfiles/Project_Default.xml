@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="57">
+          <list size="67">
             <item index="0" class="java.lang.String" itemvalue="joblib" />
             <item index="1" class="java.lang.String" itemvalue="threadpoolctl" />
             <item index="2" class="java.lang.String" itemvalue="scikit-learn" />
@@ -62,6 +62,16 @@
             <item index="54" class="java.lang.String" itemvalue="isort" />
             <item index="55" class="java.lang.String" itemvalue="pytz" />
             <item index="56" class="java.lang.String" itemvalue="Pillow" />
+            <item index="57" class="java.lang.String" itemvalue="PySocks" />
+            <item index="58" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="59" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="60" class="java.lang.String" itemvalue="Django" />
+            <item index="61" class="java.lang.String" itemvalue="cffi" />
+            <item index="62" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="63" class="java.lang.String" itemvalue="cryptography" />
+            <item index="64" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="65" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="66" class="java.lang.String" itemvalue="sqlparse" />
           </list>
         </value>
       </option>
