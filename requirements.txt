@@ -3,7 +3,6 @@ asgiref==3.2.10
 astroid==2.3.3
 autopep8==1.4.4
 beautifulsoup4==4.9.1
-bokeh @ file:///C:/ci/bokeh_1598371165551/work
 bs4==0.0.1
 certifi==2020.6.20
 chardet==3.0.4
@@ -27,7 +26,6 @@ HeapDict==1.0.1
 heroku==0.1.4
 idna==2.10
 imageio==2.3.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593431910144/work
 isort==4.3.21
 Jinja2==2.11.2
 joblib==0.15.1
@@ -44,8 +42,6 @@ olefile==0.46
 packaging==20.4
 pandas==0.25.3
 partd==1.1.0
-Pillow @ file:///C:/ci/pillow_1594299032796/work
-psutil @ file:///C:/ci/psutil_1598352185190/work
 psycopg2==2.8.5
 pycodestyle==2.5.0
 pyflakes==2.1.1
@@ -58,11 +54,9 @@ six==1.15.0
 sortedcontainers==2.2.2
 soupsieve==2.0.1
 sqlparse==0.3.1
-tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
 toolz==0.10.0
 tornado==6.0.4
 typed-ast==1.4.1
-typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
 urllib3==1.25.10
 whitenoise==5.2.0
 wincertstore==0.2
